@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@modules/login": "file:./modules/login/"
+  }
+}
